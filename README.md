@@ -1,1 +1,1 @@
-# 1st-year-project
+# 1st-sem-project
